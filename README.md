@@ -1,5 +1,4 @@
-**E-commerce Price Tracker & Analysis
-**
+**E-commerce Price Tracker & Analysis**
 
 This project is an automated E-commerce Price Tracker that fetches product data from the Fake Store API, performs data analysis, and generates visual insights using Python, Pandas, and Seaborn.
 
