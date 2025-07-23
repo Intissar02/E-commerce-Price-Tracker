@@ -8,6 +8,7 @@ this tool demonstrates:
 ✅ Statistical Analysis
 ✅ Data Visualization
 ✅ Automated Insights for E-commerce
+
 **Features**
 1. Data Collection & Preprocessing
 - Fetches real-time product data (title, price, ratings) from the Fake Store API.
@@ -20,6 +21,7 @@ this tool demonstrates:
 3. Data Visualization
 - Seaborn & Matplotlib for clear, professional visualizations.
 - Bar plots to compare product prices effectively.
+  
 **Why This Project?**
 - Demonstrates ML/Data Engineering Skills:
 - API integration
