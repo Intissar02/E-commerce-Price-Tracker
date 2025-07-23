@@ -1,14 +1,14 @@
 **E-commerce Price Tracker & Analysis**
 
-This project is an automated E-commerce Price Tracker that fetches product data from the Fake Store API, performs data analysis, and generates visual insights using Python, Pandas, and Seaborn.
+**Objective:** This project is an automated E-commerce Price Tracker that fetches product data from the Fake Store API, performs data analysis, and generates visual insights using Python, Pandas, and Seaborn.
 
-Built as part of an ML Engineer assessment, this tool demonstrates:
+this tool demonstrates:
 ✅ API Data Fetching
 ✅ Pandas Data Manipulation
 ✅ Statistical Analysis
 ✅ Data Visualization
 ✅ Automated Insights for E-commerce
-Features
+**Features**
 1. Data Collection & Preprocessing
 - Fetches real-time product data (title, price, ratings) from the Fake Store API.
 - Cleans and structures data into a Pandas DataFrame for analysis.
